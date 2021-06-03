@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A new dialogue or, a brief discourse between two travellers the one call'd by the name of Andrew the Scot; the other, David the VVelchman. Setting forth the condition that the Scots are in, the opinions that the VVelch are on, the miseries that Ireland indures, and the calamities of England. Shewing also the intents and desires of the major part of people in every countrey, countie, shire, city, borough, towne and village, within his Majesties dominions. With a compendious prophesie; compos'd by a woman nam'd Mistris White, now living in the town of Cardiff of the age of 112 years, who hath pointed out strange matters concerning this kingdomes affaires,</title>
+         </titleStmt>
+         <extent>Approx. 16KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89964</idno><idno type="EEBO-CITATION">99896464</idno>
+  <idno type="VID">154311</idno>
+  <idno type="EEBO-PROQUEST">2240931229</idno>
+  
+            <idno type="STC">Wing N619A</idno>
+            <idno type="STC">ESTC R230746</idno>
+            <idno type="PROQUEST">99896464</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99896464e"/>
+            <note>(EEBO-TCP ; phase 2, no. A89964)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154311)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2410:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A new dialogue or, a brief discourse between two travellers the one call'd by the name of Andrew the Scot; the other, David the VVelchman. Setting forth the condition that the Scots are in, the opinions that the VVelch are on, the miseries that Ireland indures, and the calamities of England. Shewing also the intents and desires of the major part of people in every countrey, countie, shire, city, borough, towne and village, within his Majesties dominions. With a compendious prophesie; compos'd by a woman nam'd Mistris White, now living in the town of Cardiff of the age of 112 years, who hath pointed out strange matters concerning this kingdomes affaires,</title>
+               </titleStmt>
+               <extent>[4], 12 p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>printed for Tho: Vere, dwelling at the upper end of the Old Bayley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="mul">mul</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="modern_bookplate">
+            <pb facs="tcp:154311:1"/>
+            <p>
+               <figure>
+                  <head>CARDIFF-CASTLE.</head>
+               </figure>
+            </p>
+            <pb facs="tcp:154311:1"/>
+            <pb facs="tcp:154311:2"/>
+            <pb facs="tcp:154311:2"/>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:154311:3"/>
+            <pb facs="tcp:154311:3"/>
+            <p>A New DIALOGUE <hi>OR,</hi> A brief discourse between two Travellers; the one call'd by the name of <hi>Andrew</hi> the <hi>Scot;</hi> the other, <hi>David</hi> the <hi>VVelchman.</hi>
+            </p>
+            <p>Setting forth the Condition that the <hi>Scots</hi> are in, the Opinions that the <hi>VVelch</hi> are on, the Miseries that Ireland indures, and the Cala<g ref="char:EOLhyphen"/>mities of England.</p>
+            <p>Shewing also the intents and desires of the major part of people in every Coun<g ref="char:EOLhyphen"/>trey, Countie, Shire, City, Borough, Towne and Village, within His Majesties Dominions.</p>
+            <p>
+               <hi>With a Compendious Prophesie;</hi> Compos'd by a woman nam'd Mi<g ref="char:EOLhyphen"/>stris <hi>White,</hi> now living in the town of <hi>Cardiff</hi> of the age of 112 years, who hath pointed out strange matters concerning this Kingdomes Affaires,</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Tho: Vere,</hi> dwelling at the upper end of the <hi>Old Bayley.</hi> 1648.</p>
+            <pb facs="tcp:154311:4"/>
+            <pb facs="tcp:154311:4"/>
+         </div>
+         <div type="illustration">
+            <pb facs="tcp:154311:5"/>
+            <p>
+               <figure>
+                  <figDesc>depiction of two travelers</figDesc>
+               </figure>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb n="1" facs="tcp:154311:5"/>
+            <head>A Discourse betweene two Travellers; <hi>Andrew</hi> the <hi>Scot,</hi> and <hi>David</hi> the <hi>Welsh-man.</hi>
+            </head>
+            <sp>
+               <speaker>Andrew.</speaker>
+               <p>WEll met Cousin <hi>David:</hi> I have not séene thée a long time before. Prethée what good newes hast thou brought me under thy <hi>Monmouth</hi> Cap?</p>
+            </sp>
+            <sp>
+               <speaker>David.</speaker>
+               <p>Dost thou heare me Cousin <hi>An<g ref="char:EOLhyphen"/>drew;</hi> If thou carriest no better newes un<g ref="char:EOLhyphen"/>der thy blew Bonnet, then I doe under my <hi>Monmouth</hi> Cap, the matter will all come to nought, and that very shortly.</p>
+            </sp>
+            <sp>
+               <speaker>And.</speaker>
+               <p>Why, I understand <hi>David,</hi> that thou hast of late beene in <hi>Ireland,</hi> and wee have every one expected good newes from thence; therefore use thou no delay, but di<g ref="char:EOLhyphen"/>spatch
+<pb n="2" facs="tcp:154311:6"/> and tell me some of the best passa<g ref="char:EOLhyphen"/>ges th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t are now in <hi>Ireland.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Dav.</speaker>
+               <p>I<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> I tell thee newes of <hi>Ireland,</hi> I shall tell thee such bloody news that 'twill make thy heart bleed to heare it, if thou art a Christian.</p>
+            </sp>
+            <sp>
+               <speaker>And.</speaker>
+               <p>Let me intreat thee in a faire way to declare unto me the miserable estate, that the Inhabitants of <hi>Ireland</hi> are in, and I shall be as diligent to give thee satisfacti<g ref="char:EOLhyphen"/>on for what I have heard and seen both in <hi>Scotland</hi> and <hi>England,</hi> as may counter<g ref="char:EOLhyphen"/>vaile thy <hi>Irish</hi> Tragedy.</p>
+            </sp>
+            <sp>
+               <speaker>Dav.</speaker>
+               <p>Then thus it is: In the Kingdome of <hi>Ireland</hi> are three Armies, one of the which are for the King; the second, are for King and Parliament; the third, are nei<g ref="char:EOLhyphen"/>ther for King nor Parliament, which are Rebells indeed, naturally borne in that Countrey, and called the wilde Irish. Now while there is a Cessation of Arms between the English Armies, the wilde Irish dare not shew themselves, but hide themselves in Caves and Woods, and dare not to bee seen. But when the two <hi>English</hi> Armies are in combustion one with the other, then the wilde <hi>Irish</hi> Rebels take their opportunity, then they run through the countries which
+<pb n="3" facs="tcp:154311:6"/> is call'd the English <hi>Pale;</hi> and having no op<g ref="char:EOLhyphen"/>position to w<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>thstand them, they make Waste, Destruction, and Ruine, in all parts where they come; Firing of houses, De<g ref="char:EOLhyphen"/>flowring of Virgins, Ravishing of Women, Slaughtering of men, and cutting the Throats of children.</p>
+            </sp>
+            <sp>
+               <speaker>And</speaker>
+               <p>This is bloody newes indeed; but I thought there had beene a generall Peace concluded on throughout all <hi>Ire<g ref="char:EOLhyphen"/>land.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Dav.</speaker>
+               <p>No, nor never will be, till there be a Generall Peace concluded throughout all <hi>England, Scotland,</hi> and <hi>VVales;</hi> for if the fountaine or spring affords nothing but un<g ref="char:EOLhyphen"/>wholesome water, how can the Rivers or Ponds that are fed therewith chuse but to savour of the same?</p>
+            </sp>
+            <sp>
+               <speaker>And.</speaker>
+               <p>What meane you by those Foun<g ref="char:EOLhyphen"/>taines, and Springs, Rivers, and Ponds, which you talke of? What doe you tearme the fountaine to be?</p>
+            </sp>
+            <sp>
+               <speaker>Dav.</speaker>
+               <p>I tearme the Fountaine, or Spring, to be the Kingdome of <hi>England;</hi> and the Rivers, or Ponds, to be <hi>Scotland, Ireland,</hi> and <hi>VVales;</hi> which are continually fed and replenished by the English Fountaine: So that what the Fountaine savours of, the Ri<g ref="char:EOLhyphen"/>vers
+<pb n="4" facs="tcp:154311:7"/> savours of the same. When the Foun<g ref="char:EOLhyphen"/>taine afforded good wholesome water, so did the Rivers; and as the Fountaine did, or doth alter, so doe the Ponds and Rivers also. In a word, when <hi>England</hi> was at Peace, all were at Peace; and when <hi>England</hi> went to Wars, all went to Rack.</p>
+            </sp>
+            <sp>
+               <speaker>And.</speaker>
+               <p>Thou hast very well answered: and what thou hast said is knowne to be too true: And because thou hast given me such satisfaction, I will indeavour my selfe to shew thée the passages of the people in those parts which I have travelled in: And first, Ile begin with my Countrymen the <hi>Scots,</hi> who for the most part of them are never satisfied, full, nor fasting; give them some, they'l have all; give them all, they'l have more: Yet like the old Pro<g ref="char:EOLhyphen"/>berb, <hi>They are sometimes penny-wise, and pound foolish.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Dav.</speaker>
+               <p>But how stands the people affected to the Church and States Government?</p>
+            </sp>
+            <sp>
+               <speaker>And.</speaker>
+               <p>They are there even as they are here in <hi>England;</hi> Some will goe to the Church, some will not: Some will heare Sermons preacht in no places but Chur<g ref="char:EOLhyphen"/>ches; and some will heare none but them that are preacht in Stables, Barnes, un<g ref="char:EOLhyphen"/>der
+<pb n="5" facs="tcp:154311:7"/> Hedges, or the like: In the meane while, many Reverend Ministers, that are both able and willing to Preach the Word of the Lord, are Persecuted, Reviled, and Falsely spoken of by a sort of Factious Hy<g ref="char:EOLhyphen"/>pocrites, who are iust as <hi>Judas</hi> was, <hi>All for what will you give me.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Dav.</speaker>
+               <p>If this be true which thou hast spo<g ref="char:EOLhyphen"/>ken, <hi>Scotland</hi> is in a very sad condition con<g ref="char:EOLhyphen"/>cerning Church Government: But what say you of the States Government? Canst thou resolve me upon that point?</p>
+            </sp>
+            <sp>
+               <speaker>And.</speaker>
+               <p>For that matter I will answer thee as well as I may: The <hi>Scots</hi> are like many of the <hi>English,</hi> I will not say all; They have giddy braines, itching eares, ungodly wits, covetous desires, wavering minds, fickle thoughts, hollow hearts, and dissembling tongues, and may very well serve to make good the old Proverb; <hi>So many men, so many minds.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Dav.</speaker>
+               <p>Thou speakest well for thy Coun<g ref="char:EOLhyphen"/>treymen, but are they all so?</p>
+            </sp>
+            <sp>
+               <speaker>And.</speaker>
+               <p>No, God forbid they should be all so: I know some, though I cannot name them, that are Religious, Vertuous, Wise, Prudent, Charitable, and men of good Consciences; but I must confesse, there are too few of them.</p>
+            </sp>
+            <sp>
+               <pb n="6" facs="tcp:154311:8"/>
+               <speaker>Dav.</speaker>
+               <p>VVell, what hast thou to say of those parts of <hi>England</hi> where thou hast been tra<g ref="char:EOLhyphen"/>velling?</p>
+            </sp>
+            <sp>
+               <speaker>And.</speaker>
+               <p>I say, that a man may travell threescore miles in <hi>England,</hi> and yet scarse find three men of one mind, though they be all of one company. I have heard some cry out for an old King, and a new Parlia<g ref="char:EOLhyphen"/>ment; A have heard others cry for a Par<g ref="char:EOLhyphen"/>liament, and no King; and some there be would have no King nor Parliament; but I thinke the young Crack Rope, Squire <hi>Brandon,</hi> will lead them a dance to <hi>Ty<g ref="char:EOLhyphen"/>bourne</hi> for that trick, and some others, on one of the odde Holy-days, and weare gay Clothes for their sakes. And now <hi>David,</hi> what sayst thou for the Country of <hi>VVales,</hi> does thy Country stand up for the King, or no?</p>
+            </sp>
+            <sp>
+               <speaker>Dav.</speaker>
+               <p>There is never a man that is a true <hi>Britaine,</hi> borne from the East to the VVest part of all <hi>Wales</hi> that I know, but is of this Opinion, that King <hi>Charles</hi> is appointed by the mighty Lord and King of heaven to bee our King upon earth; and for his sake, in a just and lawfull cause, will not onely venter their Possessions, but their Goods and E<g ref="char:EOLhyphen"/>states, their Lives, and all for his Majesties
+<pb facs="tcp:154311:8"/> Rights and for the Parliaments just Privi<g ref="char:EOLhyphen"/>ledges: And for mine own part, I will pray that King <hi>Charles</hi> may have a long life, com<g ref="char:EOLhyphen"/>fortable dayes, and Friends in time of need. And thus I hope, that all those that hear me, or shall hereafter read this booke, will hear<g ref="char:EOLhyphen"/>tily say, <hi>Amen. And <hi>Amen</hi> say I.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>And.</speaker>
+               <p>Yet <hi>David,</hi> I have one thing more to speake of concerning a Country-woman of thine, which is said to be a Prophetesse; Is there any such matter in <hi>Wales</hi>?</p>
+            </sp>
+            <sp>
+               <speaker>Dav.</speaker>
+               <p>Yes, and Ile shew the manner of it: In the Towne of <hi>Cardiffe,</hi> in the West part of <hi>Wales,</hi> lives a woman call'd Mistris <hi>White</hi> of an hundred and twelve years old, who up<g ref="char:EOLhyphen"/>on the third day of <hi>May,</hi> 1648 spake these words as followeth, by way of Prophesie.</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="poem">
+                           <l>The 15 of this month of May,</l>
+                           <l>Shall be a sad disastrous day,</l>
+                           <l>And they that <hi>Charles</hi> his part doe take,</l>
+                           <l>Shall dearly suffer for his sake;</l>
+                           <l>And many of his friends shall flye</l>
+                           <l>Like dust before the Enemy.</l>
+                           <l>But in the pleasant Moneth of <hi>June,</hi>
+                           </l>
+                           <l>The Birds will sing another tune;</l>
+                           <l>A glorious Splendour shall appeare,</l>
+                           <l>And so protect our Soveraigne Deare.</l>
+                           <l>The Scorpions sting, nor poyson strong,</l>
+                           <l>Shall have no power to doe him wrong.</l>
+                           <closer>
+                              <signed>Diew Cathee whee, <hi>Guenthlen White,</hi>
+                              </signed>
+                              <lb/> Vivat Rex.</closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+            </sp>
+            <sp>
+               <pb n="8" facs="tcp:154311:9"/>
+               <speaker>And.</speaker>
+               <p>I think the woman that writ these Lines was some kin to mother <hi>Shipton;</hi> but the fifteenth day of <hi>May</hi> is already past, and I heard of no such matter brought to passe as this Prophesie makes mention of.</p>
+            </sp>
+            <sp>
+               <speaker>Dav.</speaker>
+               <p>Sayst thou so, why then Ile tell thee of two Disasters that hapned on that very day; one was in the Bishopricke of <hi>Durham,</hi> where were seven Gentlemen ri<g ref="char:EOLhyphen"/>ding upon the way, which some met with in the habit of Souldiers; fought with them, and tooke away both Money and Clothes, and after killed foure of them, say<g ref="char:EOLhyphen"/>ing, That they knew some of them to bee Cavaliers. The second was at <hi>Clifton</hi> in <hi>Dorset,</hi> where the Townes-men rose one a<g ref="char:EOLhyphen"/>gainst the other: some taking the Kings part, and some the Parliaments part, where were twentie six persons slaine by their own neighbours.</p>
+            </sp>
+            <sp>
+               <speaker>And.</speaker>
+               <p>This is sad newes indeed, but when doest thou think these times will mend?</p>
+            </sp>
+            <sp>
+               <speaker>Dav.</speaker>
+               <p>When Lawyers deale honestly with their clyents, when rich men grow bountiful, when shopkeepers leaves off dissembling, when the Army is paid and disbanded, when our Royall King <hi>Charles</hi> enjoys his former happinesse, and when a generall peace is concluded in <hi>England,</hi> which God grant may speedily come to passe.</p>
+            </sp>
+            <sp>
+               <pb n="9" facs="tcp:154311:9"/>
+               <speaker>And.</speaker>
+               <p>Thou wert used heretofore to sing me now and then a merry crotchet when we met together; what have all thy old me<g ref="char:EOLhyphen"/>riment forsaken thee now; Prethee come lets hear thee sing one pretty straine which may fit with the times.</p>
+            </sp>
+            <sp>
+               <speaker>Dav.</speaker>
+               <p>You shall.</p>
+            </sp>
+         </div>
+         <div type="song">
+            <head>The <hi>Welshmans</hi> Song.</head>
+            <opener>The Tune is, <hi>Merrily</hi> and <hi>Cherrily.</hi>
+            </opener>
+            <lg>
+               <l>POore <hi>Charity</hi> quite</l>
+               <l>out of <hi>England</hi> is fled,</l>
+               <l>She could have no harbour</l>
+               <l>amongst us to stay;</l>
+               <l>And Conscience with griefe of heart</l>
+               <l>is almost dead,</l>
+               <l>'Cause she could in <hi>Britaine</hi>
+               </l>
+               <l>no longer beare sway:</l>
+               <l>Since which Dissolution</l>
+               <l>such strange things are wrought,</l>
+               <l>Which hath our whole Kingdome</l>
+               <l>to beggery brought:</l>
+               <l>This makes both the City</l>
+               <l>and Country complaine,</l>
+               <l>
+                  <hi>Wishing that good Conscience</hi>
+               </l>
+               <l>
+                  <hi>might come here againe.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Since Conscience her presence</l>
+               <l>so long hath beene mist,</l>
+               <pb n="10" facs="tcp:154311:10"/>
+               <l>The lofty brave Cedars</l>
+               <l>are lopt and cut downe;</l>
+               <l>And all men are suffered</l>
+               <l>to doe what they list,</l>
+               <l>Which breeds a distraction</l>
+               <l>in City and Towne:</l>
+               <l>This makes the proud beggar</l>
+               <l>begin to aspire,</l>
+               <l>Who being got up</l>
+               <l>will streight strive to climbe higher;</l>
+               <l>A Lord's but his fellow</l>
+               <l>he dares it maintaine,</l>
+               <l>
+                  <hi>O Conscience, when wilt thou</hi>
+               </l>
+               <l>
+                  <hi>come hither againe?</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>And now that each man</l>
+               <l>hath his free liberty,</l>
+               <l>To use his owne will,</l>
+               <l>and to doe his owne minde;</l>
+               <l>Plain-dealing and honesty</l>
+               <l>quite is cast by,</l>
+               <l>By wofull experience</l>
+               <l>these matters we find:</l>
+               <l>The Swearer, the Drunkard,</l>
+               <l>and Whore-monger may</l>
+               <l>Doe what things they will,</l>
+               <l>and make choice of their day:</l>
+               <pb n="11" facs="tcp:154311:10"/>
+               <l>Like <hi>Iewes, Turkes,</hi> and <hi>Pagans,</hi>
+               </l>
+               <l>Gods Word they prophane,</l>
+               <l>
+                  <hi>O, when will good Conscience</hi>
+               </l>
+               <l>
+                  <hi>come hither againe?</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Both Weavers and Taylors</l>
+               <l>are suffered to preach,</l>
+               <l>With Tinkers, and Coblers,</l>
+               <l>and Broom-men also;</l>
+               <l>And <hi>Toby</hi> that once climb'd</l>
+               <l>an inch above's reach,</l>
+               <l>Doth now in his Silkes</l>
+               <l>like a Senator goe:</l>
+               <l>He tells you a Stable</l>
+               <l>or Barne is as good,</l>
+               <l>As any Church that's built</l>
+               <l>of Stone, Lime, or Wood:</l>
+               <l>And thus in ungodlinesse</l>
+               <l>still they doe reigne,</l>
+               <l>
+                  <hi>O, when will good Conscience</hi>
+               </l>
+               <l>
+                  <hi>come hither againe?</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Thus is both our Church</l>
+               <l>and Religion abus'd,</l>
+               <l>And many good Chri<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ians</l>
+               <l>brought into despaire,</l>
+               <l>And some godly Ministers</l>
+               <l>have been misus'd,</l>
+               <pb facs="tcp:154311:11"/>
+               <l>By them that never learn'd</l>
+               <l>how to say, the Lords Prayer:</l>
+               <l>The <hi>Papist</hi> and <hi>Atheist</hi>
+               </l>
+               <l>may now domineere,</l>
+               <l>Because no opposers</l>
+               <l>against them appeare:</l>
+               <l>Poore <hi>Abel</hi> was murdred</l>
+               <l>by his brother <hi>Caine,</hi>
+               </l>
+               <l>
+                  <hi>O, when will good Conscience</hi>
+               </l>
+               <l>
+                  <hi>come hither againe?</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>And now doth our Kingdome</l>
+               <l>in mutinies rise,</l>
+               <l>For want of Religion</l>
+               <l>our actions to guide:</l>
+               <l>Like mad men and women</l>
+               <l>our selves we disguise,</l>
+               <l>Through franticke Opinions</l>
+               <l>we thus doe divide:</l>
+               <l>And many great numbers</l>
+               <l>prepare them to fight,</l>
+               <l>Which never did well</l>
+               <l>Know the wrong way from right:</l>
+               <l>Such damnable doings</l>
+               <l>is like to remaine,</l>
+               <l>
+                  <hi>Till such time that Conscience</hi>
+               </l>
+               <l>
+                  <hi>come to us againe.</hi>
+               </l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:154311:11"/>
+            <pb facs="tcp:154311:12"/>
+            <pb facs="tcp:154311:12"/>
+            <pb facs="tcp:154311:13"/>
+            <pb facs="tcp:154311:13"/>
+         </div>
+      </body>
+   </text>
+</TEI>
